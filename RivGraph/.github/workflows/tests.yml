@@ -1,0 +1,44 @@
+name: tests
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up conda environment
+        uses: conda-incubator/setup-miniconda@v3
+        with:
+          miniforge-version: latest
+          activate-environment: rivgraph
+          environment-file: environment.yml
+          auto-activate-base: false
+          use-mamba: true
+
+      - name: Show Python version
+        shell: bash -el {0}
+        run: |
+          python --version
+          which python
+
+      - name: Install RivGraph
+        shell: bash -el {0}
+        run: |
+          pip install -e . --no-deps
+
+      - name: Run test suite
+        shell: bash -el {0}
+        run: |
+          python -m pytest -ra

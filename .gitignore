@@ -1,0 +1,13 @@
+# GITIGNORE (one-time) - files git should never commit
+# WHEN: run once before your first commit, and again after editing this list.
+# WHAT: %%writefile saves this cell's text as Mangrove_Maze/.gitignore.
+#       Git skips any file or folder that matches a line below.
+#       Lines starting with # are comments.
+# Rebuildable install files (185 MB) - recreate them with step 3
+wheels_py313/
+# Files Python and Jupyter generate automatically
+__pycache__/
+*.egg-info/
+.ipynb_checkpoints/
+# Credentials must never be committed
+.git-credentials
