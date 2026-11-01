@@ -1,0 +1,13 @@
+[2026-11-01 at 11:56:22] | ---------- New Run ----------
+[2026-11-01 at 11:56:22] | Skeletonizing mask...
+[2026-11-01 at 11:56:29] | done with skeletonization.
+[2026-11-01 at 11:56:29] | Resolving links and nodes...
+[2026-11-01 at 11:56:43] | links and nodes have been resolved.
+[2026-11-01 at 11:56:45] | Computing distance transform...
+[2026-11-01 at 11:56:45] | distance transform done.
+[2026-11-01 at 11:56:45] | Computing link widths and lengths...
+[2026-11-01 at 11:56:51] | link widths and lengths computed.
+[2026-11-01 at 11:56:51] | No file found for manually setting link directions.
+[2026-11-01 at 11:56:51] | A .csv file was created for manual fixes to link directions at Results/timeseries_weighted/2025-10-22/rivgraph/2025-10-22_fixlinks.csv.
+[2026-11-01 at 11:56:53] | The following cycles (links) were fixed, but should be manually checked: [[36, 37, 39, 40, 52], [64, 102, 74, 106, 110, 47, 46, 62, 63]]
+[2026-11-01 at 11:56:53] | Links and nodes saved to pickle file: Results/timeseries_weighted/2025-10-22/rivgraph/2025-10-22_network.pkl.

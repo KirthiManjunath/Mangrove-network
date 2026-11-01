@@ -1,0 +1,33 @@
+[2026-11-01 at 11:55:23] | ---------- New Run ----------
+[2026-11-01 at 11:55:23] | Skeletonizing mask...
+[2026-11-01 at 11:55:30] | done with skeletonization.
+[2026-11-01 at 11:55:30] | Resolving links and nodes...
+[2026-11-01 at 11:55:41] | links and nodes have been resolved.
+[2026-11-01 at 11:55:43] | Not all inlets found in main connected component.
+[2026-11-01 at 11:55:43] | Not all inlets found in main connected component.
+[2026-11-01 at 11:55:43] | Not all inlets found in main connected component.
+[2026-11-01 at 11:55:43] | Not all inlets found in main connected component.
+[2026-11-01 at 11:55:43] | Not all inlets found in main connected component.
+[2026-11-01 at 11:55:43] | Not all inlets found in main connected component.
+[2026-11-01 at 11:55:43] | Not all inlets found in main connected component.
+[2026-11-01 at 11:55:43] | Not all inlets found in main connected component.
+[2026-11-01 at 11:55:43] | Not all inlets found in main connected component.
+[2026-11-01 at 11:55:43] | Not all inlets found in main connected component.
+[2026-11-01 at 11:55:43] | Not all inlets found in main connected component.
+[2026-11-01 at 11:55:43] | Not all inlets found in main connected component.
+[2026-11-01 at 11:55:43] | Not all inlets found in main connected component.
+[2026-11-01 at 11:55:43] | Not all inlets found in main connected component.
+[2026-11-01 at 11:55:43] | Not all inlets found in main connected component.
+[2026-11-01 at 11:55:43] | Not all inlets found in main connected component.
+[2026-11-01 at 11:55:43] | Not all inlets found in main connected component.
+[2026-11-01 at 11:55:43] | Not all inlets found in main connected component.
+[2026-11-01 at 11:55:43] | Not all inlets found in main connected component.
+[2026-11-01 at 11:55:43] | Not all inlets found in main connected component.
+[2026-11-01 at 11:55:44] | Computing distance transform...
+[2026-11-01 at 11:55:44] | distance transform done.
+[2026-11-01 at 11:55:44] | Computing link widths and lengths...
+[2026-11-01 at 11:55:50] | link widths and lengths computed.
+[2026-11-01 at 11:55:50] | No file found for manually setting link directions.
+[2026-11-01 at 11:55:50] | A .csv file was created for manual fixes to link directions at Results/timeseries_weighted/2023-10-16/rivgraph/2023-10-16_fixlinks.csv.
+[2026-11-01 at 11:55:52] | The following cycles (links) were fixed, but should be manually checked: [[66, 42, 43, 86, 55, 56, 89]]
+[2026-11-01 at 11:55:52] | Links and nodes saved to pickle file: Results/timeseries_weighted/2023-10-16/rivgraph/2023-10-16_network.pkl.

@@ -1,0 +1,67 @@
+[2026-11-01 at 11:55:53] | ---------- New Run ----------
+[2026-11-01 at 11:55:53] | Skeletonizing mask...
+[2026-11-01 at 11:56:00] | done with skeletonization.
+[2026-11-01 at 11:56:00] | Resolving links and nodes...
+[2026-11-01 at 11:56:10] | links and nodes have been resolved.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Not all inlets found in main connected component.
+[2026-11-01 at 11:56:12] | Computing distance transform...
+[2026-11-01 at 11:56:13] | distance transform done.
+[2026-11-01 at 11:56:13] | Computing link widths and lengths...
+[2026-11-01 at 11:56:19] | link widths and lengths computed.
+[2026-11-01 at 11:56:19] | No file found for manually setting link directions.
+[2026-11-01 at 11:56:19] | A .csv file was created for manual fixes to link directions at Results/timeseries_weighted/2024-11-14/rivgraph/2024-11-14_fixlinks.csv.
+[2026-11-01 at 11:56:20] | The following cycles (links) were fixed, but should be manually checked: [[135, 136, 110, 111, 115, 118], [37, 38, 42, 75, 43, 44, 46, 47, 49, 50, 84, 86, 93, 63]]
+[2026-11-01 at 11:56:20] | Links and nodes saved to pickle file: Results/timeseries_weighted/2024-11-14/rivgraph/2024-11-14_network.pkl.
